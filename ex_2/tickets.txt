@@ -1,0 +1,4 @@
+passenger_name;_from;to;date_time;flight;seat;_class;gate
+John Smith;JFK;LAX;2026-06-01 08:00;AF483;1A;First;A1
+Emma Johnson;LHR;SYD;2026-06-01 11:00;BA871;13C;Economy;B4
+Michael Brown;CDG;AMS;2026-06-01 14:00;BA114;10D;Economy;C7
